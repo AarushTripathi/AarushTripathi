@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AarushTripathi45
+- 👋 Hi, I’m @AarushTripathi
 - 👀 I’m interested in Cars, Technology, and Coding
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
