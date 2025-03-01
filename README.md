@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cars, Technology, and Coding
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me (https://www.instagram.com/sycthesense/)
+- 📫 How to reach me ()
 
 <!---
 AarushTripathi/AarushTripathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
